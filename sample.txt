@@ -1,1 +1,2 @@
-hello Everyone ! myname is mujeeba
+hello Everyone ! my name is mujeeba 
+I am a FullStack Developer!
